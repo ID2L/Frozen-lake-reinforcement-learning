@@ -1,0 +1,142 @@
+[
+    {
+        "algorithm": "SARSA",
+        "success": 69,
+        "total_epoch": 52430,
+        "converged": true,
+        "duration": 13.995750665664673
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 73,
+        "total_epoch": 3297,
+        "converged": true,
+        "duration": 0.7005152702331543
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 74,
+        "total_epoch": 47349,
+        "converged": true,
+        "duration": 12.80616021156311
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 79,
+        "total_epoch": 3101,
+        "converged": true,
+        "duration": 0.766852855682373
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 77,
+        "total_epoch": 34527,
+        "converged": true,
+        "duration": 9.19379711151123
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 68,
+        "total_epoch": 3240,
+        "converged": true,
+        "duration": 0.6769595146179199
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 75,
+        "total_epoch": 9361,
+        "converged": true,
+        "duration": 2.338805913925171
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 74,
+        "total_epoch": 3466,
+        "converged": true,
+        "duration": 0.7365241050720215
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 68,
+        "total_epoch": 57700,
+        "converged": true,
+        "duration": 15.271079301834106
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 78,
+        "total_epoch": 3249,
+        "converged": true,
+        "duration": 0.7232606410980225
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 78,
+        "total_epoch": 18912,
+        "converged": true,
+        "duration": 5.001256465911865
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 72,
+        "total_epoch": 3343,
+        "converged": true,
+        "duration": 0.7259202003479004
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 72,
+        "total_epoch": 22209,
+        "converged": true,
+        "duration": 5.826157093048096
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 75,
+        "total_epoch": 3871,
+        "converged": true,
+        "duration": 0.8691487312316895
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 62,
+        "total_epoch": 43794,
+        "converged": true,
+        "duration": 11.730431318283081
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 73,
+        "total_epoch": 3248,
+        "converged": true,
+        "duration": 0.7073700428009033
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 67,
+        "total_epoch": 26896,
+        "converged": true,
+        "duration": 7.088861465454102
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 80,
+        "total_epoch": 3283,
+        "converged": true,
+        "duration": 0.7264878749847412
+    },
+    {
+        "algorithm": "SARSA",
+        "success": 76,
+        "total_epoch": 12933,
+        "converged": true,
+        "duration": 3.232426643371582
+    },
+    {
+        "algorithm": "Q_learning",
+        "success": 77,
+        "total_epoch": 3101,
+        "converged": true,
+        "duration": 0.6519014835357666
+    }
+]
